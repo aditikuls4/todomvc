@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+h1
+{
+	background-color: rgb(126, 117, 117);
+	text-align: center;
+	font-style: oblique;
+}
